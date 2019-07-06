@@ -1,4 +1,7 @@
+
 {
+  "data": [
+    {
 "ruc": "20430635612",
 "razon_social": "GRAP PERU SAC CONSULTORIO INFORMATICO",
 "estado": "ACTIVO",
@@ -7,4 +10,9 @@
 "departamento": "Lima",
 "provincia": "Lima ",
 "distrito": "Jesús María"
+}
+  ],
+  "login": [
+    { "user": "kike", "pass": "123"}
+  ]
 }
