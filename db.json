@@ -2,17 +2,20 @@
 {
   "data": [
     {
-"ruc": "20430635612",
-"razon_social": "GRAP PERU SAC CONSULTORIO INFORMATICO",
-"estado": "ACTIVO",
-"direccion": "AV. M. ABRIL 504   1402    LIMA LIMA  JESúS MARíA",
-"ubigeo": "150113",
-"departamento": "Lima",
-"provincia": "Lima ",
-"distrito": "Jesús María"
-}
+      "ruc": "20430635612",
+      "razon_social": "GRAP PERU SAC CONSULTORIO INFORMATICO",
+      "estado": "ACTIVO",
+      "direccion": "AV. M. ABRIL 504   1402    LIMA LIMA  JESúS MARíA",
+      "ubigeo": "150113",
+      "departamento": "Lima",
+      "provincia": "Lima ",
+      "distrito": "Jesús María"
+    }
   ],
   "login": [
-    { "user": "kike", "pass": "123"}
+    { 
+      "user": "kike", 
+      "pass": "123"
+    }
   ]
 }
